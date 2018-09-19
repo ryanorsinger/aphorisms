@@ -1,126 +1,194 @@
 [
-    {
-        "quote": "Whether if you think you can... or if you think you can.. you're right!",
-        "author": "Henry Ford"
-    },
-    {
-        "quote": "Programming is more about practicing than studying: a little bit of study but a lot of practice",
-        "author": "Luis Montealegre"
-    },
-    {
-        "quote": "Fall down seven times, get up eight.",
-        "author": "Japanese Proverb"
-    },
-    {
-        "quote": "Abiding avoidant behavior in yourself is a road paved to only one thing: getting better at avoidant behavior.",
-        "author": "Ryan Orsinger"
-    },
-    {
-        "quote": "Practicing sewing/designing clothes? If all you have is expensive cloth, you'll never want to cut and learn to sew. No one learns to drive in a Ferrari on a mountain road.",
-        "author": "Kathleen Dollard"
-    },
-    {
-        "quote": "Computer science is about computers in the same way that astronomy is about telescopes. Rather than being about our tools, we're formalizing ways for discussing and designing processes.",
-        "author": "Professor Gerald Jay Sussman"
-    },
-    {
-        "quote": "If you have the words, you can more easily speak the language",
-        "author": "Zora"
-    },
-    {
-        "quote": "If it aint in source control then it doesn't exist.",
-        "author": "Jason Straughan"
-    },
-    {
-        "quote": "Success is the progressive realization of a worthy goal",
-        "author": "Earl Nightengale"
-    },
-    {
-        "quote": "The strangest secret of success: We become what we think about",
-        "author": "Earl Nightengale"
-    },
-    {
-        "quote": "Learning a skill requires practicing that skill",
-        "author": "Luis Montealegre"
-    },
-    {
-        "quote": "You can't teach a kid to ride a bike at a seminar",
-        "author": "David Sandler"
-    },
-    {
-        "quote": "Talent is a pursued interest. In other words, anything you are willing to practice, you can do.",
-        "author": "Bob Ross"
-    },
-    {
-        "quote": "Know the brain you have to get the brain you want",
-        "author": "Julia Galef"
-    },
-    {
-        "quote": "Take baby steps, just dont stop.",
-        "author": "Luis Montealegre"
-    },
-    {
-        "quote": "If at first you don't succeed, slow down and try a smaller task.",
-        "author": "Ryan Orsinger"
-    },
-    {
-        "quote": "What’s the one thing you can do, such that by doing it, everything else will be easier or unnecessary?",
-        "author": "Gary Keller"
-    },
-    {
-        "quote": "You can't buy focus. But you can rent it by paying attention to what you're doing.",
-        "author": "Ryan Orsinger"
-    },
-    {
-        "quote": "If you want to achieve greatness, stop asking for permission!",
-        "author": "anonymous"
-    },
-    {
-        "quote": "Sometimes, the best debugger is a good night's rest. Or a walk.",
-        "author": "Ryan Orsinger"
-    },
-    {
-        "quote": "When encounering a bug or something unexpected, do you find your first emotional reaction to be delight, curiosity, confusion, or irritation? Which one of those is most sustainable?",
-        "author": "Ryan Orsinger"
-    },
-    {
-        "quote": "What if the Hokey Pokey really IS what it's all about?",
-        "author": "anonymous"
-    },
-    {
-        "quote": "Never say, 'oops'. Always say, 'Ah, interesting'.",
-        "author": "anonymous"
-    },
-    {
-        "quote": "You're going to make mistakes. The real mistake is not learning from them",
-        "author": "anonymous"
-    },
-    {
-        "quote": "A ship in port is safe, but that's not what ships are built for.",
-        "author": "Admiral Grace Hopper"
-    },
-    {
-        "quote": "It is often easier to ask for forgiveness than to ask for permission.",
-        "author": "Admiral Grace Hopper"
-    },
-    {
-        "quote": " A human must turn information into intelligence or knowledge. We've tended to forget that no computer will ever ask a new question.",
-        "author": "Admiral Grace Hopper"
-    },
-    {
-        "quote": "You don't manage people; you manage things. You lead people.",
-        "author": "Admiral Grace Hopper"
-    },
-    {
-        "quote": "If it's a good idea, go ahead and do it. It's much easier to apologize than it is to get permission.",
-        "author": "Admiral Grace Hopper"
-    },
-    {
-        "quote": "I think the most powerful collection of knowledge that somebody can have is a mailing list of the people that can possibly help them.",
-        "author": "Jenn Schiffer"
-    },
-    {
-        "quote": "If we keep doing what we're doing, we're going to keep getting what we're getting.",
-        "author": "Stephen Covey"
-    }
+  {
+      "quote": "Whether if you think you can... or if you think you can.. you're right!",
+      "author": "Henry Ford"
+  },
+  {
+      "quote": "Whatever you are, be a good one.",
+      "name": "Abraham Lincoln"
+  },
+  {
+      "quote": "Always remember, your focus determines your reality",
+      "author": "George Lucas"
+  },
+  {
+      "quote": "Programming is more about practicing than studying: a little bit of study but a lot of practice",
+      "author": "Luis Montealegre"
+  },
+  {
+      "quote": "It's not what you know, it's when you know it.",
+      "author": "Kathy Sierra"
+  },
+  {
+      "quote": "Momentum begets momentum",
+      "author": "Gil Penchina"
+  },
+  {
+    "quote": "It takes years to get years of experience",
+    "author": "Retired General and USAA CEO."
+  },
+  {
+      "quote": "Enlightenment means to lighten your load, to lighten up!",
+      "author": "anonymous"
+  },
+  {
+      "quote": "We don't make mistakes, just happy little accidents.",
+      "author": "Bob Ross"
+  },
+  {
+      "quote": "We won’t be distracted by comparison if we are captivated with purpose",
+      "author": "unknown"
+  },
+  {
+      "quote": "Focus is my hocus pocus.",
+      "author": "Ryan Orsinger"
+  },
+  {
+      "quote": "The first rule of magic: Get off your ass!",
+      "author": "Ryan Orsinger"
+  },
+  {
+      "quote":"Make your customers more awesome! Upgrade your user, not your product... make people better at something they want to get better at",
+      "author": "Kathy Sierra"
+  },
+  {
+      "quote": "The only way to deep happiness is to do something you love to the best of your ability",
+      "author": "Richard Feynman"
+  }, 
+  {
+      "quote": "Fall down seven times, get up eight.",
+      "author": "Japanese Proverb"
+  },
+  {
+      "quote": "build something 100 people love, not something 1 million people kind of like",
+      "author": "Brian Chesky"
+  },
+  {
+      "quote": "Abiding avoidant behavior in yourself is a road paved to only one thing: getting better at avoidant behavior.",
+      "author": "Ryan Orsinger"
+  },
+  {
+      "quote": "Practicing sewing/designing clothes? If all you have is expensive cloth, you'll never want to cut and learn to sew. No one learns to drive in a Ferrari on a mountain road.",
+      "author": "Kathleen Dollard"
+  },
+  {
+      "quote": "Computer science is about computers in the same way that astronomy is about telescopes. Rather than being about our tools, we're formalizing ways for discussing and designing processes.",
+      "author": "Professor Gerald Jay Sussman"
+  },
+  {
+      "quote": "If you have the words, you can more easily speak the language",
+      "author": "Zora"
+  },
+  {
+      "quote": "If it aint in source control then it doesn't exist.",
+      "author": "Jason Straughan"
+  },
+  {
+      "quote": "Success is the progressive realization of a worthy goal",
+      "author": "Earl Nightengale"
+  },
+  {
+      "quote": "The strangest secret of success: We become what we think about",
+      "author": "Earl Nightengale"
+  },
+  {
+      "quote": "Learning a skill requires practicing that skill",
+      "author": "Luis Montealegre"
+  },
+  {
+      "quote": "You can't teach a kid to ride a bike at a seminar",
+      "author": "David Sandler"
+  },
+  {
+      "quote": "Talent is a pursued interest. In other words, anything you are willing to practice, you can do.",
+      "author": "Bob Ross"
+  },
+  {
+      "quote": "Know the brain you have to get the brain you want",
+      "author": "Julia Galef"
+  },
+  {
+      "quote": "Take baby steps, just dont stop.",
+      "author": "Luis Montealegre"
+  },
+  {
+      "quote": "If at first you don't succeed, slow down and try a smaller task.",
+      "author": "Ryan Orsinger"
+  },
+  {
+      "quote": "What’s the one thing you can do, such that by doing it, everything else will be easier or unnecessary?",
+      "author": "Gary Keller"
+  },
+  {
+      "quote": "You can't buy focus. But you can rent it by paying attention to what you're doing.",
+      "author": "Ryan Orsinger"
+  },
+  {
+      "quote": "If you want to achieve greatness, stop asking for permission!",
+      "author": "anonymous"
+  },
+  {
+      "quote": "Sometimes, the best debugger is a good night's rest. Or a walk.",
+      "author": "Ryan Orsinger"
+  },
+  {
+      "quote": "When encounering a bug or something unexpected, do you find your first emotional reaction to be delight, curiosity, confusion, or irritation? Which one of those is most sustainable?",
+      "author": "Ryan Orsinger"
+  },
+  {
+      "quote": "What if the Hokey Pokey really IS what it's all about?",
+      "author": "anonymous"
+  },
+  {
+      "quote": "Never say, 'oops'. Always say, 'Ah, interesting'.",
+      "author": "anonymous"
+  },
+  {
+      "quote": "You're going to make mistakes. The real mistake is not learning from them",
+      "author": "anonymous"
+  },
+  {
+      "quote": "A ship in port is safe, but that's not what ships are built for.",
+      "author": "Admiral Grace Hopper"
+  },
+  {
+      "quote": "It is often easier to ask for forgiveness than to ask for permission.",
+      "author": "Admiral Grace Hopper"
+  },
+  {
+      "quote": " A human must turn information into intelligence or knowledge. We've tended to forget that no computer will ever ask a new question.",
+      "author": "Admiral Grace Hopper"
+  },
+  {
+      "quote": "You don't manage people; you manage things. You lead people.",
+      "author": "Admiral Grace Hopper"
+  },
+  {
+      "quote": "If it's a good idea, go ahead and do it. It's much easier to apologize than it is to get permission.",
+      "author": "Admiral Grace Hopper"
+  },
+  {
+      "quote": "I think the most powerful collection of knowledge that somebody can have is a mailing list of the people that can possibly help them.",
+      "author": "Jenn Schiffer"
+  },
+  {
+      "quote": "If we keep doing what we're doing, we're going to keep getting what we're getting.",
+      "author": "Stephen Covey"
+  },
+  {
+      "quote": "To go fast, you must first go slow.",
+      "author": "anonymous"
+  },
+  {
+      "quote": "When you come to a fork in the road, take it!",
+      "author": "Yogi Berra"
+  },
+  {
+      "quote": "A coach is someone who tells you what you don't want to hear, who has you see what you don't want to see, so you can be who you have always known you could be.",
+      "author": "Tom Landry"
+  },
+  {
+      "quote": "The number one learning objective is 'Working with others effectively to find and solve problems in the face of uncertainty'",
+      "author": "Justin Reich"
+  }
 ]

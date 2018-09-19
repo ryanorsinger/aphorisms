@@ -7,6 +7,9 @@ Aphorisms is my API for my "Thoughts of the Day" for inspiration
 - GET `/api/all` to see all the "Thoughts for the Day"
 
 
+## Source
+[View the source on GitHub](https://github.com/ryanorsinger/aphorisms)
+
 Made by [Ryan Orsinger](https://ryanorsinger.glitch.me/)
 
 Proudly hosted on [Glitch](https://glitch.com/about)
