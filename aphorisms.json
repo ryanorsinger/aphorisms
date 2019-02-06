@@ -24,6 +24,10 @@
       "author": "Greg Reid"
   },
   {
+      "quote":  "It's so much easier to be negative and cynical and predict doom for the world than it is to try and figure out how to make things better. We have an obligation to do the latter.",
+      "author": "Jim Henson"
+  },
+  {
       "quote": "If you get, give. If you learn, teach",
       "author": "Maya Angelou"
   },
@@ -228,7 +232,24 @@
       "author": "Dolly Parton"
   },
   {
-      "quote": "If you don't sacrifice for what you want what you want becomes the sacrifice",
+      "quote": "If you don't sacrifice for what you want, what you want becomes the sacrifice",
       "author": "anonymous"
+  },
+  {
+      "quote": "I think that making things easy is sort-of like a way to \"invent\" a new feature for people!",
+      "author": "Julia Evans"
+  },
+  {
+      "quote": "Technical issues can be a huge pain point",
+      "author": "Elle Vargas"
+
+  },
+  {
+      "quote": "Programming is a way of thinking",
+      "author": "anonymous"
+  },
+  {
+      "quote": "Test your ideas, follow the evidence, and always remember that you could be wrong.",
+      "author": "Pascall Allen"
   }
 ]
