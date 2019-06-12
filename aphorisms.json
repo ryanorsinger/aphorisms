@@ -4,16 +4,59 @@
       "author": "Henry Ford"
   },
   {
+      "quote": "Let's refine the problem statement",
+      "author": "Zach Gulde"
+  },
+  {
+      "quote": "Mathematics is not a spectator sport",
+      "author": "Polya"
+  },
+  {
+    "quote": "The process of doing a second draft is the process of making it look like you knew what you were doing all along",
+    "author": "Neil Gaiman"    
+  },
+  {
+    "quote": "You were designed for accomplishment, engineered for success, and endowed with the seeds of greatness.",
+      "author": "Zig Ziglar"
+  },
+  {
       "quote": "Whatever you are, be a good one.",
       "name": "Abraham Lincoln"
   },
+  {    "quote": "Mathematics, you see, is not a spectator sport. To understand mathematics means to be able to do mathematics. And what does it mean [to be] doing mathematics? In the first place, it means to be able to solve mathematical problems",
+       "author": "Polya"
+  }, 
   {
       "quote": "Always remember, your focus determines your reality",
       "author": "George Lucas"
   },
   {
+      "quote": "You don't start out writing good stuff. You start out writing crap and thinking it's good stuff, and then gradually you get better at it. That's why I say one of the most valuable traits is persistence.",
+      "author": "Octavia Butler"
+  },
+  {
+      "quote": "In many cases, the more you try to compete, the less competitive you actually are.",
+      "author": "Kathy Sierra"
+  },
+  {
+      "quote": "If you can't solve a problem, then there is an easier problem you can solve: find it.",
+      "author": "Polya"
+  },
+  {
+      "quote": "Discipline is choosing between what you want now and what you want most.",
+      "author": "unknown"
+  },
+  {
+      "quote": "Learning a skill requires practicing that skill",
+      "author": "Luis Montealegre"
+  },
+  {
       "quote": "Programming is more about practicing than studying: a little bit of study but a lot of practice",
       "author": "Luis Montealegre"
+  },
+  {
+      "quote": "There are only two ways to live your life. One is as though nothing is a miracle. The other is as though everything is a miracle.",
+      "author": "Albert Einstein"
   },
   {
       "quote": "It's not what you know, it's when you know it.",
@@ -23,6 +66,10 @@
       "quote": "A dream written down with a date becomes a goal. A goal broken down into steps becomes a plan. A plan backed by action becomes reality.",
       "author": "Greg Reid"
   },
+  {
+      "quote": "Test Driven Development is to software engineering what double-entry bookkeeping is to Accounting",
+      "author": "Ryan Orsinger"
+  }, 
   {
       "quote":  "It's so much easier to be negative and cynical and predict doom for the world than it is to try and figure out how to make things better. We have an obligation to do the latter.",
       "author": "Jim Henson"
@@ -251,5 +298,9 @@
   {
       "quote": "Test your ideas, follow the evidence, and always remember that you could be wrong.",
       "author": "Pascall Allen"
+  },
+  {
+      "quote": "Master your instrument, master the music, then forget all that bullshit and just play.",
+      "author": "Charlie Parker"
   }
 ]
