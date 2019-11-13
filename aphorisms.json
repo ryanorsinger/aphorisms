@@ -62,7 +62,11 @@
   },
   {    "quote": "Mathematics, you see, is not a spectator sport. To understand mathematics means to be able to do mathematics. And what does it mean [to be] doing mathematics? In the first place, it means to be able to solve mathematical problems",
        "author": "Polya"
-  }, 
+  },
+  {
+      "quote": "Programming languages allow us to formalize instructions and express logic, business rules, mathematics, processes, and automation instructions in one single language in a way where computers follows those instructions to produce utility for people.",
+      "author": "Ryan Orsinger"
+  },
   {
       "quote": "Always remember, your focus determines your reality",
       "author": "George Lucas"
