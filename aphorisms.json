@@ -342,5 +342,9 @@
   {
       "quote": "Master your instrument, master the music, then forget all that bullshit and just play.",
       "author": "Charlie Parker"
+  },
+  {
+      "quote": "Comparing to another activity is useful if it helps you formulate questions, it's dangerous when you use it to justify answers.",
+      "author": "Martin Fowler"
   }
 ]
