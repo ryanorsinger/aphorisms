@@ -1,5 +1,22 @@
 [
   {
+    "quote": "To go fast, go alone. To go far, go together",
+    "author": "African Proverb"
+  },
+  {
+      "quote": "In fact, the only way to manage stress is to build up your resilience and strength.",
+      "author": "anomymous"
+  },
+  {
+      "quote": "Predispose yourself to practice",
+      "author": "anonymous"
+  },
+  {
+      "quote": "Writing is Nature's way of exposing how sloppy your thinking is.",
+      "author": "Guindon"
+
+  },
+  {
       "quote": "Just keep pushing... even with life-mud in your eyes, and a major lack of understanding when it comes to the effect your efforts even have... it may pay off in ways you didn’t see coming (cause I mean, no one can really see that well through life-mud). If you just keep moving, the void has a much harder time swallowing you whole. You have the higher ground...",
       "author": "Halie Koehler"
   },
@@ -8,16 +25,20 @@
       "author": "Henry Ford"
   },
   {
-    "quote": "A program is a building of thought.",
-    "author": "Marijn Haverbeke"
+      "quote": "A program is a building of thought.",
+      "author": "Marijn Haverbeke"
   },
   {
-    "quote": "Promise me you'll always remember: you're braver than you believe, and stronger than you seem, and smarter than you think",
-    "author": "Winnie the Pooh"
+      "quote": "Never let formal education get in the way of your learning",
+      "author" : "Mark Twain"
+  },
+  {
+      "quote": "Promise me you'll always remember: you're braver than you believe, and stronger than you seem, and smarter than you think",
+      "author": "Winnie the Pooh"
   },
   {   
-    "quote": "The first rule of style is to have something to say. The second rule of style is to control yourself when, by chance, you have two things to say; say first one, then the other, not both at the same time.",
-    "author": "George Pólya"
+      "quote": "The first rule of style is to have something to say. The second rule of style is to control yourself when, by chance, you have two things to say; say first one, then the other, not both at the same time.",
+      "author": "George Pólya"
   },
   {
       "quote": "Let's refine the problem statement",
@@ -28,20 +49,20 @@
       "author": "Zach Gulde"
   },
   {
-    "quote": "It's more fun to talk with someone who doesn't use long, difficult words but rather short, easy words like 'What about lunch?'",
-    "author": "Winnie the Pooh"
+      "quote": "It's more fun to talk with someone who doesn't use long, difficult words but rather short, easy words like 'What about lunch?'",
+      "author": "Winnie the Pooh"
   },       
   {
       "quote": "Mathematics is not a spectator sport",
       "author": "Polya"
   },
   {
-    "quote": "The process of doing a second draft is the process of making it look like you knew what you were doing all along",
-    "author": "Neil Gaiman"    
+      "quote": "The process of doing a second draft is the process of making it look like you knew what you were doing all along",
+      "author": "Neil Gaiman"    
   },
   {
-    "quote": "Travel is fatal to prejudice, bigotry, and narrow-mindedness, and many of our people need it sorely on these accounts. Broad, wholesome, charitable views of men and things cannot be acquired by vegetating in one little corner of the earth all one's lifetime.",
-    "author": "Mark Twain"
+      "quote": "Travel is fatal to prejudice, bigotry, and narrow-mindedness, and many of our people need it sorely on these accounts. Broad, wholesome, charitable views of men and things cannot be acquired by vegetating in one little corner of the earth all one's lifetime.",
+      "author": "Mark Twain"
   },
   {
     "quote": "Seek mentors, mentorship, and be a mentor. Coffee has a huge ROI",
@@ -57,7 +78,11 @@
   },
   {    "quote": "Mathematics, you see, is not a spectator sport. To understand mathematics means to be able to do mathematics. And what does it mean [to be] doing mathematics? In the first place, it means to be able to solve mathematical problems",
        "author": "Polya"
-  }, 
+  },
+  {
+      "quote": "Programming languages allow us to formalize instructions and express logic, business rules, mathematics, processes, and automation instructions in one single language in a way where computers follows those instructions to produce utility for people.",
+      "author": "Ryan Orsinger"
+  },
   {
       "quote": "Always remember, your focus determines your reality",
       "author": "George Lucas"
@@ -183,6 +208,10 @@
       "author": "Zora"
   },
   {
+      "quote": "I try to look at everything like I look at doors. Which side is the hinge on? Which direction the door opens, the path the user takes to proceed through, and whether or not it has a flat panel to push. Is there a pull bar to pull open? That's how I approach User Interface design. I want it to be the door that I don't think about.",
+      "author": "Risa"
+  },
+  {
       "quote": "If it aint in source control then it doesn't exist.",
       "author": "Jason Straughan"
   },
@@ -193,10 +222,6 @@
   {
       "quote": "The strangest secret of success: We become what we think about",
       "author": "Earl Nightingale"
-  },
-  {
-      "quote": "The strangest secret of success: We become what we think about",
-      "author": "Earl Nightengale"
   },
   {
       "quote": "Learning a skill requires practicing that skill",
@@ -297,6 +322,10 @@
   {
       "quote": "The number one learning objective is 'Working with others effectively to find and solve problems in the face of uncertainty'",
       "author": "Justin Reich"
+  },
+  {
+      "quote": "Failure is the opportunity to begin again more intelligently.",
+      "author": "Henry Ford"
   },
   {
       "quote": "They say that 'The code doesn't lie'. And I've noticed that even when it's lying, the code doesn't lie.",
