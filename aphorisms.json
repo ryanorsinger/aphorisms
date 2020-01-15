@@ -134,6 +134,10 @@
   {
       "quote": "Test Driven Development is to software engineering what double-entry bookkeeping is to Accounting",
       "author": "Ryan Orsinger"
+  },
+  {
+      "quote": "Median is safe when you could use mean. Median is also safe when you shouldn't use mean. Median is useful when the distribution is normal and also useful when the data is not normally distributed.",
+      "author": "Maggie Giust"
   }, 
   {
       "quote":  "It's so much easier to be negative and cynical and predict doom for the world than it is to try and figure out how to make things better. We have an obligation to do the latter.",
