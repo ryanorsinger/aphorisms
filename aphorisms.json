@@ -12,6 +12,14 @@
       "author": "anonymous"
   },
   {
+      "quote": "You can either honor your mood or your commitment. You'll always feel like NOT doing something.",
+      "author": "anonymous"
+  },
+  {
+      "quote": "The secret to building great products is not creating awesome features, it's to make your users awesome",
+      "author": "Kathy Seirra"
+  },
+  {
       "quote": "Writing is Nature's way of exposing how sloppy your thinking is.",
       "author": "Guindon"
 
@@ -130,6 +138,10 @@
   {
       "quote": "Test Driven Development is to software engineering what double-entry bookkeeping is to Accounting",
       "author": "Ryan Orsinger"
+  },
+  {
+      "quote": "Median is safe when you could use mean. Median is also safe when you shouldn't use mean. Median is useful when the distribution is normal and also useful when the data is not normally distributed.",
+      "author": "Maggie Giust"
   }, 
   {
       "quote":  "It's so much easier to be negative and cynical and predict doom for the world than it is to try and figure out how to make things better. We have an obligation to do the latter.",
@@ -375,5 +387,9 @@
   {
       "quote": "Master your instrument, master the music, then forget all that bullshit and just play.",
       "author": "Charlie Parker"
+  },
+  {
+      "quote": "Comparing to another activity is useful if it helps you formulate questions, it's dangerous when you use it to justify answers.",
+      "author": "Martin Fowler"
   }
 ]
