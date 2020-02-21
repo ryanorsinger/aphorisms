@@ -12,17 +12,28 @@
       "author": "anonymous"
   },
   {
+    "quote": "Respect the specs",
+    "author": "Dr. Linda F. Wilson"
+  },
+  {
+    "author": "What we're doing is paint along with me rather than take detailed notes on the colors I use.",
+    "author": "Zach Gulde"
+  },
+  {
       "quote": "You can either honor your mood or your commitment. You'll always feel like NOT doing something.",
       "author": "anonymous"
   },
   {
-      "quote": "Writing is Nature's way of exposing how sloppy your thinking is.",
-      "author": "Guindon"
-
+      "quote": "The secret to building great products is not creating awesome features, it's to make your users awesome",
+      "author": "Kathy Sierra"
   },
   {
-    "quote": "The biggest issue on software teams is making sure everyone understands what everyone else is doing.",
-    "author": "Martin Fowler"
+      "quote": "Writing is Nature's way of exposing how sloppy your thinking is.",
+      "author": "Guindon"
+  },
+  {
+      "quote": "The biggest issue on software teams is making sure everyone understands what everyone else is doing.",
+      "author": "Martin Fowler"
   },
   {
       "quote": "Just keep pushing... even with life-mud in your eyes, and a major lack of understanding when it comes to the effect your efforts even have... it may pay off in ways you didn’t see coming (cause I mean, no one can really see that well through life-mud). If you just keep moving, the void has a much harder time swallowing you whole. You have the higher ground...",
@@ -77,11 +88,11 @@
       "author": "Mark Twain"
   },
   {
-    "quote": "Seek mentors, mentorship, and be a mentor. Coffee has a huge ROI",
-    "author": "Jason Straughan"
+      "quote": "Seek mentors, mentorship, and be a mentor. Coffee has a huge ROI",
+      "author": "Jason Straughan"
   },
   {
-    "quote": "You were designed for accomplishment, engineered for success, and endowed with the seeds of greatness.",
+      "quote": "You were designed for accomplishment, engineered for success, and endowed with the seeds of greatness.",
       "author": "Zig Ziglar"
   },
   {
@@ -168,8 +179,8 @@
       "author": "anomymous"
   },
   {
-    "quote": "It takes years to get years of experience",
-    "author": "anonymous"
+      "quote": "It takes years to get years of experience",
+      "author": "anonymous"
   },
   {
       "quote": "Enlightenment means to lighten your load, to lighten up!",
@@ -391,5 +402,9 @@
   {
       "quote": "Comparing to another activity is useful if it helps you formulate questions, it's dangerous when you use it to justify answers.",
       "author": "Martin Fowler"
+  },
+  {
+      "quote": "It is possible to commit no mistakes and still lose. That is not a weakness. That is life.",
+      "author": "Jean-Luc Picard"
   }
 ]
