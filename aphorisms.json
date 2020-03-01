@@ -416,8 +416,8 @@
       "author": "Jean-Luc Picard"
   },
   {
-    "quote": "Making an evidence presentation is a moral act as well as an intellectual activity. To maintain standards of quality, relevance, and integrity for evidence, consumers of presentations should insist that presenters be held intellectually and ethically responsible for what they show and tell. Thus consuming a presentation is also an intellectual and a moral activity.",
-    "author": "Edward Tufte"
+      "quote": "Making an evidence presentation is a moral act as well as an intellectual activity. To maintain standards of quality, relevance, and integrity for evidence, consumers of presentations should insist that presenters be held intellectually and ethically responsible for what they show and tell. Thus consuming a presentation is also an intellectual and a moral activity.",
+      "author": "Edward Tufte"
   },
   {
       "quote": "Medical statistics will be our standard of measurement: we will weight life for life and see where the dead lie thicker, among the workers or among the privileged.", 
@@ -426,5 +426,9 @@
   {
       "quote": "What was observed by us is the nature or matter of the Milky Way itself, which, with the aid of the spyglass, may be observed so well that all the disputes that for so many generations have vexed philosophiers are destroyed by visible certainty, and we are liberated from wordy arguments.",
       "author": "Galileo Galilei"
+  },
+  {
+      "quote": "Let's answer questions experimentally rather than theoretically",
+      "author": "Zach Gulde"
   }
 ]
