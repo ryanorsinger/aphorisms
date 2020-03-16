@@ -436,11 +436,19 @@
       "author": "Marie Curie"
   },
   {
-    "quote": "The only way to get something built faster is to build a smaller thing",
-    "author": "Nicholas C. Zakas"
+      "quote": "The only way to get something built faster is to build a smaller thing",
+      "author": "Nicholas C. Zakas"
   },
   {
       "quote": "What you seek, is seeking you.",
       "author": "Rumi"
+  },
+  {
+      "quote": "Be approximately right rather than exactly wrong.",
+      "author": "John W. Tukey"
+  },
+  {
+      "quote": "The first principle is that you must not fool yourself--and you are the easiest person to fool.",
+      "author": "Richard Feynman"
   }
 ]
