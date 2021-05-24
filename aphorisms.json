@@ -4,12 +4,12 @@
       "author": "African Proverb"
   },
   {
-      "quote": "In fact, the only way to manage stress is to build up your resilience and strength.",
-      "author": "anomymous"
+    "quote": "In fact, the only way to manage stress is to build up your resilience and strength.",
+    "author": "anomymous"
   },
   {
-      "quote": "Predispose yourself to practice",
-      "author": "anonymous"
+    "quote": "Predispose yourself to practice",
+    "author": "anonymous"
   },
   {
       "quote": "Respect the specs",
@@ -20,440 +20,688 @@
       "author": "Zach Gulde"
   },
   {
-      "quote": "You can either honor your mood or your commitment. You'll always feel like NOT doing something.",
-      "author": "anonymous"
+    "quote": "You can either honor your mood or your commitment. You'll always feel like NOT doing something.",
+    "author": "anonymous"
   },
   {
-      "quote": "The secret to building great products is not creating awesome features, it's to make your users awesome",
-      "author": "Kathy Sierra"
+    "quote": "The secret to building great products is not creating awesome features, it's to make your users awesome",
+    "author": "Kathy Sierra"
   },
   {
-      "quote": "Writing is Nature's way of exposing how sloppy your thinking is.",
-      "author": "Guindon"
+    "quote": "Writing is Nature's way of exposing how sloppy your thinking is.",
+    "author": "Guindon"
   },
   {
-      "quote": "The biggest issue on software teams is making sure everyone understands what everyone else is doing.",
-      "author": "Martin Fowler"
+    "quote": "The biggest issue on software teams is making sure everyone understands what everyone else is doing.",
+    "author": "Martin Fowler"
   },
   {
-      "quote": "Just keep pushing... even with life-mud in your eyes, and a major lack of understanding when it comes to the effect your efforts even have... it may pay off in ways you didn’t see coming (cause I mean, no one can really see that well through life-mud). If you just keep moving, the void has a much harder time swallowing you whole. You have the higher ground...",
-      "author": "Halie Koehler"
+    "quote": "Just keep pushing... even with life-mud in your eyes, and a major lack of understanding when it comes to the effect your efforts even have... it may pay off in ways you didn’t see coming (cause I mean, no one can really see that well through life-mud). If you just keep moving, the void has a much harder time swallowing you whole. You have the higher ground...",
+    "author": "Halie Koehler"
   },
   {
-      "quote": "All social movements are dismissed at some point as complaining. Over time, they are recognized as speaking truth to power.",
-      "author": "Sarah Kendzior"
+    "quote": "All social movements are dismissed at some point as complaining. Over time, they are recognized as speaking truth to power.",
+    "author": "Sarah Kendzior"
   },
   {
-      "quote": "Whether if you think you can... or if you think you can.. you're right!",
-      "author": "Henry Ford"
+    "quote": "Whether if you think you can... or if you think you can.. you're right!",
+    "author": "Henry Ford"
   },
   {
-      "quote": "A program is a building of thought.",
-      "author": "Marijn Haverbeke"
+    "quote": "A program is a building of thought.",
+    "author": "Marijn Haverbeke"
   },
   {
-      "quote": "Never let formal education get in the way of your learning",
-      "author" : "Mark Twain"
+    "quote": "Never let formal education get in the way of your learning",
+    "author" : "Mark Twain"
   },
   {
-      "quote": "Promise me you'll always remember: you're braver than you believe, and stronger than you seem, and smarter than you think",
-      "author": "Winnie the Pooh"
-  },
-  {   
-      "quote": "The first rule of style is to have something to say. The second rule of style is to control yourself when, by chance, you have two things to say; say first one, then the other, not both at the same time.",
-      "author": "George Pólya"
+    "quote": "Promise me you'll always remember: you're braver than you believe, and stronger than you seem, and smarter than you think",
+    "author": "Winnie the Pooh"
   },
   {
-      "quote": "Let's refine the problem statement",
-      "author": "Zach Gulde"
+    "quote": "The first rule of style is to have something to say. The second rule of style is to control yourself when, by chance, you have two things to say; say first one, then the other, not both at the same time.",
+    "author": "George Pólya"
   },
   {
-      "quote": "UPDATE is a code smell",
-      "author": "Zach Gulde"
+    "quote": "Let's refine the problem statement",
+    "author": "Zach Gulde"
   },
   {
-      "quote": "It's more fun to talk with someone who doesn't use long, difficult words but rather short, easy words like 'What about lunch?'",
-      "author": "Winnie the Pooh"
-  },       
-  {
-      "quote": "Mathematics is not a spectator sport",
-      "author": "Polya"
+    "quote": "UPDATE is a code smell",
+    "author": "Zach Gulde"
   },
   {
-      "quote": "The process of doing a second draft is the process of making it look like you knew what you were doing all along",
-      "author": "Neil Gaiman"    
+    "quote": "It's more fun to talk with someone who doesn't use long, difficult words but rather short, easy words like 'What about lunch?'",
+    "author": "Winnie the Pooh"
   },
   {
-      "quote": "Travel is fatal to prejudice, bigotry, and narrow-mindedness, and many of our people need it sorely on these accounts. Broad, wholesome, charitable views of men and things cannot be acquired by vegetating in one little corner of the earth all one's lifetime.",
-      "author": "Mark Twain"
+    "quote": "Mathematics is not a spectator sport",
+    "author": "Polya"
   },
   {
-      "quote": "Seek mentors, mentorship, and be a mentor. Coffee has a huge ROI",
-      "author": "Jason Straughan"
+    "quote": "The process of doing a second draft is the process of making it look like you knew what you were doing all along",
+    "author": "Neil Gaiman"
   },
   {
-      "quote": "You were designed for accomplishment, engineered for success, and endowed with the seeds of greatness.",
-      "author": "Zig Ziglar"
+    "quote": "Travel is fatal to prejudice, bigotry, and narrow-mindedness, and many of our people need it sorely on these accounts. Broad, wholesome, charitable views of men and things cannot be acquired by vegetating in one little corner of the earth all one's lifetime.",
+    "author": "Mark Twain"
   },
   {
-      "quote": "Whatever you are, be a good one.",
-      "name": "Abraham Lincoln"
+    "quote": "Seek mentors, mentorship, and be a mentor. Coffee has a huge ROI",
+    "author": "Jason Straughan"
+  },
+  {
+    "quote": "You were designed for accomplishment, engineered for success, and endowed with the seeds of greatness.",
+    "author": "Zig Ziglar"
+  },
+  {
+    "quote": "Whatever you are, be a good one.",
+    "name": "Abraham Lincoln"
   },
   {    "quote": "Mathematics, you see, is not a spectator sport. To understand mathematics means to be able to do mathematics. And what does it mean [to be] doing mathematics? In the first place, it means to be able to solve mathematical problems",
-       "author": "Polya"
+    "author": "Polya"
   },
   {
-      "quote": "Programming languages allow us to formalize instructions and express logic, business rules, mathematics, processes, and automation instructions in one single language in a way where computers follows those instructions to produce utility for people.",
-      "author": "Ryan Orsinger"
+    "quote": "Programming languages allow us to formalize instructions and express logic, business rules, mathematics, processes, and automation instructions in one single language in a way where computers follows those instructions to produce utility for people.",
+    "author": "Ryan Orsinger"
   },
   {
-      "quote": "Always remember, your focus determines your reality",
-      "author": "George Lucas"
+    "quote": "Always remember, your focus determines your reality",
+    "author": "George Lucas"
   },
   {
-      "quote": "You don't start out writing good stuff. You start out writing crap and thinking it's good stuff, and then gradually you get better at it. That's why I say one of the most valuable traits is persistence.",
-      "author": "Octavia Butler"
+    "quote": "You don't start out writing good stuff. You start out writing crap and thinking it's good stuff, and then gradually you get better at it. That's why I say one of the most valuable traits is persistence.",
+    "author": "Octavia Butler"
   },
   {
-      "quote": "In many cases, the more you try to compete, the less competitive you actually are.",
-      "author": "Kathy Sierra"
+    "quote": "In many cases, the more you try to compete, the less competitive you actually are.",
+    "author": "Kathy Sierra"
   },
   {
-      "quote": "If you can't solve a problem, then there is an easier problem you can solve: find it.",
-      "author": "Polya"
+    "quote": "If you can't solve a problem, then there is an easier problem you can solve: find it.",
+    "author": "Polya"
   },
   {
-      "quote": "Discipline is choosing between what you want now and what you want most.",
-      "author": "unknown"
+    "quote": "Discipline is choosing between what you want now and what you want most.",
+    "author": "unknown"
   },
   {
-      "quote": "Learning a skill requires practicing that skill",
-      "author": "Luis Montealegre"
+    "quote": "Learning a skill requires practicing that skill",
+    "author": "Luis Montealegre"
   },
   {
-      "quote": "Programming is more about practicing than studying: a little bit of study but a lot of practice",
-      "author": "Luis Montealegre"
+    "quote": "Programming is more about practicing than studying: a little bit of study but a lot of practice",
+    "author": "Luis Montealegre"
   },
   {
-      "quote": "There are only two ways to live your life. One is as though nothing is a miracle. The other is as though everything is a miracle.",
-      "author": "Albert Einstein"
+    "quote": "There are only two ways to live your life. One is as though nothing is a miracle. The other is as though everything is a miracle.",
+    "author": "Albert Einstein"
   },
   {
-      "quote": "It's not what you know, it's when you know it.",
-      "author": "Kathy Sierra"
+    "quote": "It's not what you know, it's when you know it.",
+    "author": "Kathy Sierra"
   },
   {
-      "quote": "A dream written down with a date becomes a goal. A goal broken down into steps becomes a plan. A plan backed by action becomes reality.",
-      "author": "Greg Reid"
+    "quote": "A dream written down with a date becomes a goal. A goal broken down into steps becomes a plan. A plan backed by action becomes reality.",
+    "author": "Greg Reid"
   },
   {
-      "quote": "Test Driven Development is to software engineering what double-entry bookkeeping is to Accounting",
-      "author": "Ryan Orsinger"
+    "quote": "Test Driven Development is to software engineering what double-entry bookkeeping is to Accounting",
+    "author": "Ryan Orsinger"
   },
   {
-      "quote": "Median is safe when you could use mean. Median is also safe when you shouldn't use mean. Median is useful when the distribution is normal and also useful when the data is not normally distributed.",
-      "author": "Maggie Giust"
-  }, 
+    "quote": "Median is safe when you could use mean. Median is also safe when you shouldn't use mean. Median is useful when the distribution is normal and also useful when the data is not normally distributed.",
+    "author": "Maggie Giust"
+  },
   {
-      "quote":  "It's so much easier to be negative and cynical and predict doom for the world than it is to try and figure out how to make things better. We have an obligation to do the latter.",
-      "author": "Jim Henson"
+    "quote":  "It's so much easier to be negative and cynical and predict doom for the world than it is to try and figure out how to make things better. We have an obligation to do the latter.",
+    "author": "Jim Henson"
   },
   {
-      "quote": "If you get, give. If you learn, teach",
-      "author": "Maya Angelou"
+    "quote": "If you get, give. If you learn, teach",
+    "author": "Maya Angelou"
   },
   {
-      "quote": "I can think. I can wait. I can fast.",
-      "author": "Siddhartha in Siddhartha by Herman Hesse"
+    "quote": "I can think. I can wait. I can fast.",
+    "author": "Siddhartha in Siddhartha by Herman Hesse"
   },
   {
-      "quote": "There is no such thing as a failed experiment, only experiments with unexpected outcomes",
-      "author": "Buckminster Fuller"
+    "quote": "There is no such thing as a failed experiment, only experiments with unexpected outcomes",
+    "author": "Buckminster Fuller"
   },
   {
-      "quote": "Momentum begets momentum",
-      "author": "Gil Penchina"
+    "quote": "Momentum begets momentum",
+    "author": "Gil Penchina"
   },
   {
-      "quote": "We become what we practice.",
-      "author": "anomymous"
+    "quote": "We become what we practice.",
+    "author": "anomymous"
   },
   {
-      "quote": "It takes years to get years of experience",
-      "author": "anonymous"
+    "quote": "It takes years to get years of experience",
+    "author": "anonymous"
   },
   {
-      "quote": "Enlightenment means to lighten your load, to lighten up!",
-      "author": "anonymous"
+    "quote": "Enlightenment means to lighten your load, to lighten up!",
+    "author": "anonymous"
   },
   {
-      "quote": "We don't make mistakes, just happy little accidents.",
-      "author": "Bob Ross"
+    "quote": "We don't make mistakes, just happy little accidents.",
+    "author": "Bob Ross"
   },
   {
-      "quote": "We won’t be distracted by comparison if we are captivated with purpose",
-      "author": "unknown"
+    "quote": "We won’t be distracted by comparison if we are captivated with purpose",
+    "author": "unknown"
   },
   {
-      "quote": "Let your focus be your hocus pocus!",
-      "author": "Ryan Orsinger"
+    "quote": "Let your focus be your hocus pocus!",
+    "author": "Ryan Orsinger"
   },
   {
-      "quote": "The first rule of magic: Get off your ass!",
-      "author": "Ryan Orsinger"
+    "quote": "The first rule of magic: Get off your ass!",
+    "author": "Ryan Orsinger"
   },
   {
-      "quote":"Make your customers more awesome! Upgrade your user, not your product... make people better at something they want to get better at",
-      "author": "Kathy Sierra"
+    "quote":"Make your customers more awesome! Upgrade your user, not your product... make people better at something they want to get better at",
+    "author": "Kathy Sierra"
   },
   {
-      "quote": "The only way to deep happiness is to do something you love to the best of your ability",
-      "author": "Richard Feynman"
-  }, 
+    "quote": "The only way to deep happiness is to do something you love to the best of your ability",
+    "author": "Richard Feynman"
+  },
   {
-      "quote": "Fall down seven times, get up eight.",
-      "author": "Japanese Proverb"
+    "quote": "Fall down seven times, get up eight.",
+    "author": "Japanese Proverb"
   },
   {
-      "quote": "build something 100 people love, not something 1 million people kind of like",
-      "author": "Brian Chesky"
+    "quote": "build something 100 people love, not something 1 million people kind of like",
+    "author": "Brian Chesky"
   },
   {
-      "quote": "Abiding avoidant behavior in yourself is a road paved to only one thing: getting better at avoidant behavior.",
-      "author": "Ryan Orsinger"
+    "quote": "Abiding avoidant behavior in yourself is a road paved to only one thing: getting better at avoidant behavior.",
+    "author": "Ryan Orsinger"
   },
   {
-      "quote": "The code never lies. Even when the code is lying, the code never lies.",
-      "author": "Ryan Orsinger"
+    "quote": "The code never lies. Even when the code is lying, the code never lies.",
+    "author": "Ryan Orsinger"
   },
   {
-      "quote": "Code does what it is told to do, not what you mean it to do.",
-      "author": "Ryan Orsinger"
+    "quote": "Code does what it is told to do, not what you mean it to do.",
+    "author": "Ryan Orsinger"
   },
   {
-      "quote": "Practicing sewing/designing clothes? If all you have is expensive cloth, you'll never want to cut and learn to sew. No one learns to drive in a Ferrari on a mountain road.",
-      "author": "Kathleen Dollard"
+    "quote": "Practicing sewing/designing clothes? If all you have is expensive cloth, you'll never want to cut and learn to sew. No one learns to drive in a Ferrari on a mountain road.",
+    "author": "Kathleen Dollard"
   },
   {
-      "quote": "Computer science is about computers in the same way that astronomy is about telescopes. Rather than being about our tools, we're formalizing ways for discussing and designing processes.",
-      "author": "Professor Gerald Jay Sussman"
+    "quote": "Computer science is about computers in the same way that astronomy is about telescopes. Rather than being about our tools, we're formalizing ways for discussing and designing processes.",
+    "author": "Professor Gerald Jay Sussman"
   },
   {
-      "quote": "If you have the words, you can more easily speak the language",
-      "author": "Zora"
+    "quote": "If you have the words, you can more easily speak the language",
+    "author": "Zora"
   },
   {
-      "quote": "I try to look at everything like I look at doors. Which side is the hinge on? Which direction the door opens, the path the user takes to proceed through, and whether or not it has a flat panel to push. Is there a pull bar to pull open? That's how I approach User Interface design. I want it to be the door that I don't think about.",
-      "author": "Risa"
+    "quote": "I try to look at everything like I look at doors. Which side is the hinge on? Which direction the door opens, the path the user takes to proceed through, and whether or not it has a flat panel to push. Is there a pull bar to pull open? That's how I approach User Interface design. I want it to be the door that I don't think about.",
+    "author": "Risa"
   },
   {
-      "quote": "If it aint in source control then it doesn't exist.",
-      "author": "Jason Straughan"
+    "quote": "If it aint in source control then it doesn't exist.",
+    "author": "Jason Straughan"
   },
   {
-      "quote": "Success is the progressive realization of a worthy goal",
-      "author": "Earl Nightingale"
+    "quote": "Success is the progressive realization of a worthy goal",
+    "author": "Earl Nightingale"
   },
   {
-      "quote": "The strangest secret of success: We become what we think about",
-      "author": "Earl Nightingale"
+    "quote": "The strangest secret of success: We become what we think about",
+    "author": "Earl Nightingale"
   },
   {
-      "quote": "Learning a skill requires practicing that skill",
-      "author": "Luis Montealegre"
+    "quote": "Learning a skill requires practicing that skill",
+    "author": "Luis Montealegre"
   },
   {
-      "quote": "You can't teach a kid to ride a bike at a seminar",
-      "author": "David Sandler"
+    "quote": "You can't teach a kid to ride a bike at a seminar",
+    "author": "David Sandler"
   },
   {
-      "quote": "Talent is a pursued interest. In other words, anything you are willing to practice, you can do.",
-      "author": "Bob Ross"
+    "quote": "Talent is a pursued interest. In other words, anything you are willing to practice, you can do.",
+    "author": "Bob Ross"
   },
   {
-      "quote": "Know the brain you have to get the brain you want",
-      "author": "Julia Galef"
+    "quote": "Know the brain you have to get the brain you want",
+    "author": "Julia Galef"
   },
   {
-      "quote": "Take baby steps, just dont stop.",
-      "author": "Luis Montealegre"
+    "quote": "Take baby steps, just dont stop.",
+    "author": "Luis Montealegre"
   },
   {
-      "quote": "If at first you don't succeed, slow down and try a smaller task.",
-      "author": "Ryan Orsinger"
+    "quote": "If at first you don't succeed, slow down and try a smaller task.",
+    "author": "Ryan Orsinger"
   },
   {
-      "quote": "What’s the one thing you can do, such that by doing it, everything else will be easier or unnecessary?",
-      "author": "Gary Keller"
+    "quote": "What’s the one thing you can do, such that by doing it, everything else will be easier or unnecessary?",
+    "author": "Gary Keller"
   },
   {
-      "quote": "You can't buy focus. But you can rent it by paying attention to what you're doing.",
-      "author": "Ryan Orsinger"
+    "quote": "You can't buy focus. But you can rent it by paying attention to what you're doing.",
+    "author": "Ryan Orsinger"
   },
   {
-      "quote": "If you want to achieve greatness, stop asking for permission!",
-      "author": "anonymous"
+    "quote": "If you want to achieve greatness, stop asking for permission!",
+    "author": "anonymous"
   },
   {
-      "quote": "Sometimes, the best debugger is a good night's rest. Or a walk.",
-      "author": "Ryan Orsinger"
+    "quote": "Sometimes, the best debugger is a good night's rest. Or a walk.",
+    "author": "Ryan Orsinger"
   },
   {
-      "quote": "When encounering a bug or something unexpected, do you find your first emotional reaction to be delight, curiosity, confusion, or irritation? Which one of those is most sustainable?",
-      "author": "Ryan Orsinger"
+    "quote": "When encounering a bug or something unexpected, do you find your first emotional reaction to be delight, curiosity, confusion, or irritation? Which one of those is most sustainable?",
+    "author": "Ryan Orsinger"
   },
   {
-      "quote": "What if the Hokey Pokey really IS what it's all about?",
-      "author": "anonymous"
+    "quote": "What if the Hokey Pokey really IS what it's all about?",
+    "author": "anonymous"
   },
   {
-      "quote": "Never say, 'oops'. Always say, 'Ah, interesting'.",
-      "author": "anonymous"
+    "quote": "Never say, 'oops'. Always say, 'Ah, interesting'.",
+    "author": "anonymous"
   },
   {
-      "quote": "Predictions from any model are only as good as the data that parametrised it.",
-      "author": "Francois Balloux"
+    "quote": "Predictions from any model are only as good as the data that parametrised it.",
+    "author": "Francois Balloux"
   },
   {
-      "quote": "You're going to make mistakes. The real mistake is not learning from them",
-      "author": "anonymous"
+    "quote": "You're going to make mistakes. The real mistake is not learning from them",
+    "author": "anonymous"
   },
   {
-      "quote": "A ship in port is safe, but that's not what ships are built for.",
-      "author": "Admiral Grace Hopper"
+    "quote": "A ship in port is safe, but that's not what ships are built for.",
+    "author": "Admiral Grace Hopper"
   },
   {
-      "quote": "It is often easier to ask for forgiveness than to ask for permission.",
-      "author": "Admiral Grace Hopper"
+    "quote": "It is often easier to ask for forgiveness than to ask for permission.",
+    "author": "Admiral Grace Hopper"
   },
   {
-      "quote": " A human must turn information into intelligence or knowledge. We've tended to forget that no computer will ever ask a new question.",
-      "author": "Admiral Grace Hopper"
+    "quote": " A human must turn information into intelligence or knowledge. We've tended to forget that no computer will ever ask a new question.",
+    "author": "Admiral Grace Hopper"
   },
   {
-      "quote": "You don't manage people; you manage things. You lead people.",
-      "author": "Admiral Grace Hopper"
+    "quote": "You don't manage people; you manage things. You lead people.",
+    "author": "Admiral Grace Hopper"
   },
   {
-      "quote": "If it's a good idea, go ahead and do it. It's much easier to apologize than it is to get permission.",
-      "author": "Admiral Grace Hopper"
+    "quote": "If it's a good idea, go ahead and do it. It's much easier to apologize than it is to get permission.",
+    "author": "Admiral Grace Hopper"
   },
   {
-      "quote": "I think the most powerful collection of knowledge that somebody can have is a mailing list of the people that can possibly help them.",
-      "author": "Jenn Schiffer"
+    "quote": "I think the most powerful collection of knowledge that somebody can have is a mailing list of the people that can possibly help them.",
+    "author": "Jenn Schiffer"
   },
   {
-      "quote": "If we keep doing what we're doing, we're going to keep getting what we're getting.",
-      "author": "Stephen Covey"
+    "quote": "If we keep doing what we're doing, we're going to keep getting what we're getting.",
+    "author": "Stephen Covey"
   },
   {
-      "quote": "To go fast, you must first go slow.",
-      "author": "anonymous"
+    "quote": "To go fast, you must first go slow.",
+    "author": "anonymous"
   },
   {
-      "quote": "When you come to a fork in the road, take it!",
-      "author": "Yogi Berra"
+    "quote": "When you come to a fork in the road, take it!",
+    "author": "Yogi Berra"
   },
   {
-      "quote": "A coach is someone who tells you what you don't want to hear, who has you see what you don't want to see, so you can be who you have always known you could be.",
-      "author": "Tom Landry"
+    "quote": "A coach is someone who tells you what you don't want to hear, who has you see what you don't want to see, so you can be who you have always known you could be.",
+    "author": "Tom Landry"
   },
   {
-      "quote": "The number one learning objective is 'Working with others effectively to find and solve problems in the face of uncertainty'",
-      "author": "Justin Reich"
+    "quote": "The number one learning objective is 'Working with others effectively to find and solve problems in the face of uncertainty'",
+    "author": "Justin Reich"
   },
   {
-      "quote": "Failure is the opportunity to begin again more intelligently.",
-      "author": "Henry Ford"
+    "quote": "Failure is the opportunity to begin again more intelligently.",
+    "author": "Henry Ford"
   },
   {
-      "quote": "They say that 'The code doesn't lie'. And I've noticed that even when it's lying, the code doesn't lie.",
-      "author": "Ryan Orsinger"
+    "quote": "They say that 'The code doesn't lie'. And I've noticed that even when it's lying, the code doesn't lie.",
+    "author": "Ryan Orsinger"
   },
   {
-      "quote": "Master your instrument, master the music, and then  forget all that bullshit and just play",
-      "author": "Charlie Parker"
+    "quote": "Master your instrument, master the music, and then  forget all that bullshit and just play",
+    "author": "Charlie Parker"
   },
   {
-      "quote": "You can be happy or you can be unhappy. It's just according to the way you look at things",
-      "author": "Walt Disney"
+    "quote": "You can be happy or you can be unhappy. It's just according to the way you look at things",
+    "author": "Walt Disney"
   },
   {
-      "quote": "Feigned indifference doesn't get you what you want. Try being earnest!",
-      "author": "Ryan Orsinger"
+    "quote": "Feigned indifference doesn't get you what you want. Try being earnest!",
+    "author": "Ryan Orsinger"
   },
   {
-      "quote": "We cannot direct the wind, but we can adjust the sails.",
-      "author": "Dolly Parton"
+    "quote": "We cannot direct the wind, but we can adjust the sails.",
+    "author": "Dolly Parton"
   },
   {
-      "quote": "If you don't sacrifice for what you want, what you want becomes the sacrifice",
-      "author": "anonymous"
+    "quote": "If you don't sacrifice for what you want, what you want becomes the sacrifice",
+    "author": "anonymous"
   },
   {
-      "quote": "I think that making things easy is sort-of like a way to \"invent\" a new feature for people!",
-      "author": "Julia Evans"
+    "quote": "I think that making things easy is sort-of like a way to \"invent\" a new feature for people!",
+    "author": "Julia Evans"
   },
   {
-      "quote": "Technical issues can be a huge pain point",
-      "author": "Elle Vargas"
+    "quote": "Technical issues can be a huge pain point",
+    "author": "Elle Vargas"
 
   },
   {
-      "quote": "Programming is a way of thinking",
-      "author": "anonymous"
+    "quote": "Programming is a way of thinking",
+    "author": "anonymous"
   },
   {
-      "quote": "Test your ideas, follow the evidence, and always remember that you could be wrong.",
-      "author": "Pascall Allen"
+    "quote": "Test your ideas, follow the evidence, and always remember that you could be wrong.",
+    "author": "Pascall Allen"
   },
   {
-      "quote": "Master your instrument, master the music, then forget all that bullshit and just play.",
-      "author": "Charlie Parker"
+    "quote": "Master your instrument, master the music, then forget all that bullshit and just play.",
+    "author": "Charlie Parker"
   },
   {
-      "quote": "Comparing to another activity is useful if it helps you formulate questions, it's dangerous when you use it to justify answers.",
-      "author": "Martin Fowler"
+    "quote": "Comparing to another activity is useful if it helps you formulate questions, it's dangerous when you use it to justify answers.",
+    "author": "Martin Fowler"
   },
   {
-      "quote": "It is possible to commit no mistakes and still lose. That is not a weakness. That is life.",
-      "author": "Jean-Luc Picard"
+    "quote": "It is possible to commit no mistakes and still lose. That is not a weakness. That is life.",
+    "author": "Jean-Luc Picard"
   },
   {
-      "quote": "Making an evidence presentation is a moral act as well as an intellectual activity. To maintain standards of quality, relevance, and integrity for evidence, consumers of presentations should insist that presenters be held intellectually and ethically responsible for what they show and tell. Thus consuming a presentation is also an intellectual and a moral activity.",
-      "author": "Edward Tufte"
+    "quote": "Making an evidence presentation is a moral act as well as an intellectual activity. To maintain standards of quality, relevance, and integrity for evidence, consumers of presentations should insist that presenters be held intellectually and ethically responsible for what they show and tell. Thus consuming a presentation is also an intellectual and a moral activity.",
+    "author": "Edward Tufte"
   },
   {
-      "quote": "Medical statistics will be our standard of measurement: we will weight life for life and see where the dead lie thicker, among the workers or among the privileged.", 
-      "author": "Rudolf Virchow"
+    "quote": "Medical statistics will be our standard of measurement: we will weight life for life and see where the dead lie thicker, among the workers or among the privileged.",
+    "author": "Rudolf Virchow"
   },
   {
-      "quote": "What was observed by us is the nature or matter of the Milky Way itself, which, with the aid of the spyglass, may be observed so well that all the disputes that for so many generations have vexed philosophiers are destroyed by visible certainty, and we are liberated from wordy arguments.",
-      "author": "Galileo Galilei"
+    "quote": "What was observed by us is the nature or matter of the Milky Way itself, which, with the aid of the spyglass, may be observed so well that all the disputes that for so many generations have vexed philosophiers are destroyed by visible certainty, and we are liberated from wordy arguments.",
+    "author": "Galileo Galilei"
   },
   {
-      "quote": "Let's answer questions experimentally rather than theoretically",
-      "author": "Zach Gulde"
+    "quote": "Let's answer questions experimentally rather than theoretically",
+    "author": "Zach Gulde"
   },
   {
-      "quote": "Nothing in life is to be feared, it is only to be understood. Now is the time to understand more, so that we may fear less.",
-      "author": "Marie Curie"
+    "quote": "Nothing in life is to be feared, it is only to be understood. Now is the time to understand more, so that we may fear less.",
+    "author": "Marie Curie"
   },
   {
-      "quote": "The only way to get something built faster is to build a smaller thing",
-      "author": "Nicholas C. Zakas"
+    "quote": "The only way to get something built faster is to build a smaller thing",
+    "author": "Nicholas C. Zakas"
   },
   {
-      "quote": "What you seek, is seeking you.",
-      "author": "Rumi"
+    "quote": "What you seek, is seeking you.",
+    "author": "Rumi"
   },
   {
-      "quote": "Be approximately right rather than exactly wrong.",
-      "author": "John W. Tukey"
+    "quote": "Be approximately right rather than exactly wrong.",
+    "author": "John W. Tukey"
   },
   {
-      "quote": "The first principle is that you must not fool yourself--and you are the easiest person to fool.",
-      "author": "Richard Feynman"
+    "quote": "The first principle is that you must not fool yourself--and you are the easiest person to fool.",
+    "author": "Richard Feynman"
+  },
+  {
+    "quote": "Don't hide your mistakes. Handle them.",
+    "author": "Fernando Mendoza R."
+  },
+  {
+    "quote": "Make sure the data that you're dealing with is the data that you think it is.",
+    "author": "Faith Kane"
+  },
+  {
+    "quote": "Problems that remain persistently insoluble should always be suspected as questions asked in the wrong way.",
+    "author": "Alan Watts"
+  },
+  {
+    "author": "Johannes Brahms",
+    "quote": "Without craftsmanship, inspiration is a mere reed shaken in the wind."
+  },
+  {
+    "author": "Ryan Orsinger",
+    "quote": "Start simply so that you may simply start"
+  },
+  {
+    "quote": "Everything we are taught is an approximation of some reality out there ",
+    "author": "Ravinder Singh"
+  },
+  {
+    "quote": "You cannot hope to build a better world without improving the individuals. To that end each of us must work for his own improvement, and at the same time share a general responsibility for all humanity, our particular duty being to aid those to whom we think we can be most useful.",
+    "author": "Marie Curie"
+  },
+  {
+    "quote": "You can only analyze the data you have. Be strategic about what to gather and how to store it",
+    "author": "Marie Curie"
+  },
+  {
+    "quote": "If you chase down everything then you won't finish anything",
+    "author": "Maggie Giust"
+  },
+  {
+    "quote": "Just when it seems easy, be careful",
+    "author": "Maggie Giust"
+  },
+  {
+    "quote": "It's tough to make predictions, especially about the future.",
+    "author": "Yogi Berra "
+  },
+  {
+    "quote": "We all have unique experiences which means that when we all look at the same thing, we each see something new about it. And if everyone sees something different in the same thing and we communicate about it, then we can form a new and richer understanding together",
+    "author": "Maggie Giust"
+  },
+  {
+    "quote": "There are only two kinds of bugs: typographical errors and opportunities to learn something that you do not yet understand.",
+    "author": "Wynter Snow"
+  },
+  {
+    "quote": "For what you see and hear depends a good deal on where you are standing: It also depends on what sort of person you are.",
+    "author": "C. S. Lewis"
+  },
+  {
+    "quote": "Its not an anomaly if it happens all the time.",
+    "author": "Brandi Reger"
+  },
+  {
+    "quote": "You can observe a lot by just watching.",
+    "author": "Yogi Berra"
+  },
+  {
+    "quote": "Your only job is to make your classroom safe. That's rule #1. If your classroom isn't safe then nothing else matters.",
+    "author": "Professor John Milam"
+  },
+  {
+    "quote": "Code does what it’s told, not what you want it to do.",
+    "author": "Ryan Orsinger"
+  },
+  {
+    "quote": "Nobody knows everything. Everybody knows everything. And together, we can do anything!",
+    "author": "Katy Salts"
+  },
+  {
+    "quote": "\n]\n‘]\n]\n \\ \nSorry, cleaning my keyboard lol",
+    "author": "Maggie Giust"
+  },
+  {
+    "quote": "Benchmark from where you were before, not where you think you should be.",
+    "author": "Dimitri Antoniou"
+  },
+  {
+    "quote": "The greatest value of a picture is when it forces us to notice what we never expected to see.",
+    "author": "John Tukey"
+  },
+  {
+    "quote" : "There is no better than adversity. Every defeat, every heartbreak, every loss, contains its own seed, its own lesson on how to improve your performance the next time.",
+    "author": "Malcolm X"
+  },
+  {
+    "quote": "The 80 percent solution today is everything to me. The 100 percent solution tomorrow is worthless to me.",
+    "author": "unkown"
+  },
+  {
+    "quote": "Your credibility is the currency of the realm.",
+    "author": "Iris Gonzalez:"
+  },
+  {
+    "quote": "You can't use that particular data. First of all, it's a small sample size. Second of all, it's a REALLY small sample size!",
+    "author": "Iris Gonzalez"
+  },
+  {
+    "quote": "I want you to double check your numbers. I want you to double check your charts. Ask yourself, does this accurately tell the story? Ask yourself, is this a good use of data? Ask yourself, is this a legit insight or am I getting caught up with how pretty the chart is and doing something that might destroy our credibility?",
+    "author": "Iris Gonzalez"
+  },
+  {
+    "quote": "There will always be agendas. Whenever there's data, there's always an agenda",
+    "author": "Iris Gonzalez"
+  },
+  {
+    "quote": "Be clear. Be transparent. Be prepared. Be prepared to show your sources and be prepared to show your methodologies that backup your analysis",
+    "author": "Iris Gonzalez"
+  },
+  {
+    "quote": "I need one slide. I need one slide in plain English. And keep a methodology slide in your back pocket so you can share it if someone says 'I don't agree with your analysis'",
+    "author": "Iris Gonzalez"
+  },
+  {
+    "quote": "Make sure you're speaking in plain English. Don't assume your audience understands everything you're telling them.",
+    "author": "Iris Gonzalez"
+  },
+  {
+    "quote": "History doesn’t repeat itself but it often rhymes.",
+    "author": "Mark Twain"
+  },
+  {
+    "quote": "The depth with which you master the basics influences how well you understand everything you learn after that.",
+    "author": "Edward B. Burger"
+  },
+  {
+    "quote": "The first rule of Assessment: Results need to be interpreted. Numbers without context are meaningless.",
+    "author": "Iris Gonzalez"
+  },
+  {
+    "quote": "Our audience will listen OR they will read; they will not do both.",
+    "author": "Faith Kane"
+  },
+  {
+    "quote": "Don't let them see you sweat. Point to the data and say 'The data shows, the data shows'.",
+    "author": "Iris Gonzalez"
+  },
+  {
+    "quote": "With each presentation, you always try to make it better than the rest.",
+    "author": "Iris Gonzalez"
+  },
+  {
+    "quote": "Code. Create. Repeat. Everyoone sits and dwells and debates and overthinks and thinks and ponders and asks friends and mentors and thinks and sleeps on it and thinks and deabes and ponders again, then second guesses and worries and stresses, and they do nothing... Go. You don't need permission. You have everything you need.",
+    "author": "Chase Thompson"
+  },
+  {
+    "quote": "One can choose to go back toward safety or forward toward growth. Growth must be chosen again and again; fear must be overcome again and again.",
+    "author": "Abraham Maslow"
+  },
+  {
+    "quote": "Civilization advances by extending the number of important operations which we can perform without thinking about them.",
+    "author": "Alfred North Whitehead"
+  },
+  {
+    "quote": "Hummus is a powerful force for good in the Universe",
+    "author": "Zach Gulde"
+  },
+  {
+    "quote": "There is no excuse for failing to plot and look.",
+    "author": "John Tukey"
+  },
+  {
+    "quote": "What you just did is really hard. Tonight you can go to sleep knowing you are stronger today than you were yesterday.",
+    "author": "Maggie Giust"
+  },
+  {
+    "quote": "I am always doing that which I cannot do, iun order that I may learn how to do it",
+    "author": "Pablo Picasso"
+  },
+  {
+    "quote": "I wonder what this looks like. Let's plot it, and see!",
+    "author": "Maggie Giust"
+  },
+  {
+    "quote": "In this work (Data Science), when it comes to checking boxes, part of the workflow is being able to build the boxes that you're going to need to check off.",
+    "author": "John D. Salas"
+  },
+  {
+    "quote": "No one writes a love song about a wrench",
+    "author": "Corey Solitaire"
+  },
+  {
+    "quote": "The best way to produce the results of having a time machine is to do the right thing today",
+    "author": "Ryan Orsinger"
+  },
+  {
+    "quote": "Good design is writing without words.",
+    "author": "Fred Lambuth"
+  },
+  {
+    "quote": "You'll never go wrong learning more SQL",
+    "author": "Fred Lambuth"
+  },
+  {
+    "quote": "First delight, then instruct.",
+    "author": "Gustav Friedrich Waagen"
+  },
+  {
+    "quote": "Your giddyy up is a function of your own gumption. Make it so!",
+    "author": "Ryan Orsinger"
+  },
+  {
+    "quote": "We’ll calculate probabilities by blowing off statistics",
+    "author": "Zach Gulde"
+  },
+  {
+    "quote": "I am always doing that which I cannot do, iun order that I may learn how to do it",
+    "author": "Pablo Picasso"
+  },
+  {
+    "quote": "That’s what the beginning of fun tastes like. Fear.",
+    "author": "Faith Kane"
+  },
+  {
+      "quote": "Your giddyy up is a function of your own gumption. Make it so!",
+      "author": "Ryan Orsinger"
+  },
+  {
+    "quote": "Opportunity is missed by most people because it is dressed in overalls and looks like work.",
+    "author": "Thomas Edison"
+  },
+  {
+    "quote": "You're never going to know everything there is to know in tech. Instead, aim for the confidence to ,know that you can figure it out.",
+    "author": "Angie Jones"
+  },
+  {
+    "quote": "We don't need to make our charts more complicated than they need to be",
+    "author": "Ravinder Singh"
+  },
+  {
+    "quote": "However disorienting, difficult, or humbling our mistakes might be, it is ultimately wrongness, not ,rightness, that can teach us who we are.",
+    "author": "Kathryn Schulz"
+  },
+  {
+    "quote": "The principles of the growth mindset -- learn, observe, improve.",
+    "author": "Caroline Goyder"
+  },
+  {
+    "quote": "Remember who you are outside of the screen",
+    "author": "Faith Kane"
   },
   {
       "quote": "Don't hide your mistakes. Handle them.",
@@ -690,5 +938,9 @@
   {
       "quote": "Remember who you are outside of the screen",
       "author": "Faith Kane"
+  },
+  {
+    "quote": "You will drop your databases more often than you drop the beat!.",
+    "author": "Fernando Mendoza R."
   }
 ]
