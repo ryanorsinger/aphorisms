@@ -97,7 +97,7 @@
   },
   {
       "quote": "Whatever you are, be a good one.",
-      "name": "Abraham Lincoln"
+      "author": "Abraham Lincoln"
   },
   {    "quote": "Mathematics, you see, is not a spectator sport. To understand mathematics means to be able to do mathematics. And what does it mean [to be] doing mathematics? In the first place, it means to be able to solve mathematical problems",
        "author": "Polya"
@@ -692,11 +692,15 @@
       "author": "Faith Kane"
   },
   {
-    "quote": "When we can talk about our feelings, they become less overwhelming, less upsetting, and less scary.",
-    "author": "Fred Rogers AKA 'Mister Rogers'"
+      "quote": "When we can talk about our feelings, they become less overwhelming, less upsetting, and less scary.",
+      "author": "Fred Rogers AKA 'Mister Rogers'"
   },
   {
-    "quote": "When we can talk about our feelings, they become less overwhelming, less upsetting, and less scary.",
-    "author": "Fred Rogers AKA Mr. Rogers"
+      "quote": "When we can talk about our feelings, they become less overwhelming, less upsetting, and less scary.",
+      "author": "Fred Rogers AKA Mr. Rogers"
+  },
+  {
+      "quote": "We know very little, and yet it is astonishing that we know so much, and still more astonishing that so little knowledge can give us so much power.",
+      "author": "Bertrand Russell"
   }
 ]
