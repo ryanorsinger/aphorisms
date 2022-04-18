@@ -774,5 +774,9 @@
   {
     "quote": "You have a sample size of one, so making assumptions on that one observation isn't accurate",
     "author": "Ravinder Singh"
+  },
+  {
+    "quote": "Debugging is twice as hard as writing the code in the first place. Therefore, if you write the code as cleverly as possible, you are, by definition, not smart enough to debug it.",
+    "author": "Brian W. Kernighan"
   }
 ]
