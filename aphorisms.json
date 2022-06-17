@@ -772,15 +772,19 @@
       "author": "Eleanor Roosevelt"
   },
   {
-    "quote": "You have a sample size of one, so making assumptions on that one observation isn't accurate",
-    "author": "Ravinder Singh"
+      "quote": "You have a sample size of one, so making assumptions on that one observation isn't accurate",
+      "author": "Ravinder Singh"
   },
   {
-    "quote": "Debugging is twice as hard as writing the code in the first place. Therefore, if you write the code as cleverly as possible, you are, by definition, not smart enough to debug it.",
-    "author": "Brian W. Kernighan"
+      "quote": "Debugging is twice as hard as writing the code in the first place. Therefore, if you write the code as cleverly as possible, you are, by definition, not smart enough to debug it.",
+      "author": "Brian W. Kernighan"
   },
   {
-    "quote": "The best practice for visualizations is if it takes more than 5 seconds to explain your visual, it's not a best practice.",
-    "author": "Ravinder Singh"
+      "quote": "The best practice for visualizations is if it takes more than 5 seconds to explain your visual, it's not a best practice.",
+      "author": "Ravinder Singh"
+  },
+  {
+      "quote": "Economic rents should go to the workers who created them.",
+      "author": "Ryan Orsinger"
   }
 ]
