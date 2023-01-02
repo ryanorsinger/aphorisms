@@ -28,6 +28,19 @@ app.get('/', function(request, response) {
   response.json(randomAphorism);
 });
 
+app.get('/api/example', function(request, response) {
+  var aphorisms = require("./aphorisms.json");
+  var curieAphorisms =  [
+    aphorisms[109],
+    aphorisms[120],
+    aphorisms[121]
+  ];
+  
+  
+  response.setHeader('Content-Type', 'application/json');
+  response.json(curieAphorisms);
+});
+
 app.get('/api/random', function(request, response) {
   var aphorisms = require("./aphorisms.json");
   var randomIndex = Math.floor(Math.random() * aphorisms.length);
